@@ -1,0 +1,13 @@
+names:
+- Folha
+- Fungo
+nc: 2
+roboflow:
+  license: MIT
+  project: faca-logo-o-l
+  url: https://universe.roboflow.com/faz-o-l/faca-logo-o-l/dataset/1
+  version: 1
+  workspace: faz-o-l
+test: ../test/images
+train: N:/Users/mathe/GitHub/ProjetoFazenda/database_projeto_fazenda_netcon/train/images
+val: N:/Users/mathe/GitHub/ProjetoFazenda/database_projeto_fazenda_netcon/valid/images
