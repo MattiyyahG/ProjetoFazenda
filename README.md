@@ -1,4 +1,4 @@
-# README do Projeto de Prova de Conceito para Detecção de Fungos em Videiras
+# Projeto de Prova de Conceito para Detecção de Fungos em Videiras
 
 ## Descrição do Projeto
 
@@ -39,11 +39,11 @@ Aqui estão alguns resultados da validação do modelo YOLOv10 na detecção de 
 
 - Exemplo de Detecção de Oídio e Míldio (Labels)
   
-  <img src="https://github.com/MattiyyahG/ProjetoFazenda/blob/main/train/val_batch1_labels.jpg?raw=true" alt="Labels" style="width: 50%; height: auto; align-self: center">
+  <img src="https://github.com/MattiyyahG/ProjetoFazenda/blob/main/train/val_batch1_labels.jpg?raw=true" alt="Labels" style="width: 60%; height: auto; align-self: center">
   
 - Exemplo de Detecção de Oídio e Míldio (Predictions)
   
-  <img src="https://github.com/MattiyyahG/ProjetoFazenda/blob/main/train/val_batch1_pred.jpg?raw=true" alt="Predictions" style="width: 50%; height: auto; align-self: center">
+  <img src="https://github.com/MattiyyahG/ProjetoFazenda/blob/main/train/val_batch1_pred.jpg?raw=true" alt="Predictions" style="width: 60%; height: auto; align-self: center">
 
 
 
