@@ -33,4 +33,18 @@ Este projeto é uma prova de conceito focada na utilização de um modelo de vis
 - **Conjunto de Dados**: O projeto inclui um conjunto de dados de imagens rotuladas. Certifique-se de que as imagens estão organizadas corretamente para o treinamento e validação.
 - **Resultados**: Após a execução dos scripts de treinamento e validação, os resultados serão salvos em um diretório especificado, incluindo gráficos de desempenho e métricas.
 
+## Resultados
+
+Aqui estão alguns resultados da validação do modelo YOLOv10 na detecção de oídio e míldio em folhas de videiras:
+
+- Exemplo de Detecção de Oídio e Míldio (Labels)
+  
+  <img src="https://github.com/MattiyyahG/ProjetoFazenda/blob/main/train/val_batch1_labels.jpg?raw=true" alt="Labels" style="width: 50%; height: auto; align-self: center">
+  
+- Exemplo de Detecção de Oídio e Míldio (Predictions)
+  
+  <img src="https://github.com/MattiyyahG/ProjetoFazenda/blob/main/train/val_batch1_pred.jpg?raw=true" alt="Predictions" style="width: 50%; height: auto; align-self: center">
+
+
+
 Este projeto representa uma prova de conceito para a aplicação de visão computacional na agricultura, visando a detecção de fungos em videiras.
